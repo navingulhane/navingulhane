@@ -18,12 +18,6 @@ Focused on building strong programming fundamentals and solving real-world probl
 
 ---
 
-<p align="center">
-My philosophy: I prioritize clarity, discipline, and long-term growth over shortcuts.<br>
-I put motivation over consistency and focus first on what truly matters.
-</p>
-
----
 
 #  Tech Stack:
 

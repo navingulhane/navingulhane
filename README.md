@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Navin..!</h1>
+<h1 align="center">Hi, I'm Navin...!</h1>
 
 <h3 align="center">Computer Engineering Student | CSE</h3>
 
